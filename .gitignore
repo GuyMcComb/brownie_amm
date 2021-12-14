@@ -1,0 +1,6 @@
+node_modules/
+migrations/
+.solhint.json
+.idea
+build/contracts/dependencies
+.env
